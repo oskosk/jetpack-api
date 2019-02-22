@@ -16,7 +16,7 @@ _Incoming_
 
 ```sh
 cd my-plugin
-wget https://raw.githubusercontent.com/oskosk/jetpack-api/master/class.jetpackapi.php
+wget https://raw.githubusercontent.com/oskosk/jetpack-api/master/class-jetpackapi.php
 ```
 
 
