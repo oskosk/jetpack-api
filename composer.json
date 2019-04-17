@@ -1,0 +1,13 @@
+{
+    "name": "osk/jetpack-api",
+    "description": "A PHP class covering every need for interfacing with Jetpack's internals",
+    "type": "library",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "oskosk",
+            "email": "oskosk@gmail.com"
+        }
+    ],
+    "require": {}
+}
