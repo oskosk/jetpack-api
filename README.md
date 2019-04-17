@@ -1,8 +1,8 @@
-# JetpackApi
+# Jetpack Api
 
-Jetpack API is a PHP class covering every need for interfacing with Jetpack's internals.
+**Jetpack API** is a PHP class covering every need for interfacing with Jetpack's internals without the need to actually have Jetpack installed side by side with your plugin for using this API.
 
-Useful for including in any other WordPress plugin that wants to run side by side with Jetpack on the same WordPress installation.
+This package is useful for including in any other WordPress plugin that can run side by side with Jetpack on the same WordPress installation but also without Jetpack being necessarily always installed on the same site.
 
 ## Installation
 
