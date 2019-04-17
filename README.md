@@ -10,13 +10,16 @@ JetpackApi can be used just by downloading the class or via composer.
 
 ### Installation via composer
 
-_Incoming_
+```sh
+$ cd my-plugin
+$ composer require oskosk/jetpack-api
+```
 
 ### Installation via simple download of the class file
 
 ```sh
-cd my-plugin
-wget https://raw.githubusercontent.com/oskosk/jetpack-api/master/class-jetpackapi.php
+$ cd my-plugin
+$ wget https://raw.githubusercontent.com/oskosk/jetpack-api/master/class-jetpackapi.php
 ```
 
 
